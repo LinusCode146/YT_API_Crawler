@@ -7,6 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 
-.gitignore
+/.gitignore
 
-constances.py
+../constances.py
